@@ -32,4 +32,11 @@ Google Gemini API
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d1b308c2-e363-4984-bcec-bf24ccf2737b" />
 
 
-Render (Hosting)                 
+Render (Hosting)       
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0bed9a02-6dad-4c4c-8fd6-5d645e7e367c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37d7bd22-782d-433b-988f-40bd301aa0b5" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b41cedce-1cf7-431b-9d39-2d9a0af5c594" />
+
+
+
