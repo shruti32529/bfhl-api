@@ -29,4 +29,7 @@ Dotenv
 
 Google Gemini API
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d1b308c2-e363-4984-bcec-bf24ccf2737b" />
+
+
 Render (Hosting)                 
